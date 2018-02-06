@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-#THIS PAGE IS W.I.P. some links may not work or linked pages might be empty.
+###THIS PAGE IS W.I.P. some links may not work or linked pages might be empty.
 
 The projects that I am working on (or worked on  in the past).
 
@@ -21,7 +21,7 @@ A simple mobile arcade game I developed with my friends for a club event.
 
 All of the games I developed for game jams (Accelerated Game Development Events).
 
-### [School Projects]({{ site.baseurl }}/sprojects)
+### [School Projects]({{ site.baseurl }}/schoolprojects)
 
 Some projects I made for school assignments.
 
