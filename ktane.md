@@ -2,8 +2,6 @@
 layout: page
 title: My KTaNE Mods
 permalink: /ktane/
-steam_logo: <img src="/images/icons/steam.png" alt="Steam Logo" style="height: 2em; "/>
-unity_logo: <img src="/images/icons/unity.png" alt="Unity Logo" style="height: 2em; "/>
 ---
 
 Keep Talking and Nobody Explodes is a cooperative game on Steam which I really liked.
@@ -19,8 +17,8 @@ My initial idea was to do something about a given graph structure.
 Then decided to make it about checking if a connection exists between nodes in a graph.
 This is one of the most known modded modules among community since it's beginner friendly and was released at a really early stage of modding support.
 
-[  {{steam_logo}} <span style="font-size: 2em;">Steam Workshop Page<span/>](http://steamcommunity.com/sharedfiles/filedetails/?id=744314607)
-[  {{steam_logo}} <span style="font-size: 2em;">Source Code<span/>](https://github.com/bcetin/ConnectionCheck)
+[  <img src="/images/icons/steam.png" alt="Steam Logo" style="height: 2em; "/> <span style="font-size: 2em;">Steam Workshop Page<span/>](http://steamcommunity.com/sharedfiles/filedetails/?id=744314607)
+[  <img src="/images/icons/unity.png" alt="Unity Logo" style="height: 2em; "/> <span style="font-size: 2em;">Source Code<span/>](https://github.com/bcetin/ConnectionCheck)
 
 ### Monsplode Modules
 
