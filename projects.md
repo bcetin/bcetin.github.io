@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-###THIS PAGE IS W.I.P. some links may not work or linked pages might be empty.
+### THIS PAGE IS W.I.P. some links may not work or linked pages might be empty.
 
 The projects that I am working on (or worked on  in the past).
 
