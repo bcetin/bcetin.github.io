@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Site is W.I.P.
 
-[Here is my CV for now.](/{{ site.url }}/documents/resume.pdf)
+[Here is my CV for now.](/documents/resume.pdf)
 
 
 ### Contact me
