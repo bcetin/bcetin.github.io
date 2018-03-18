@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *Ways of Hearing* Podcast Review
+title: Ways of Hearing Podcast Review
 ---
 
 I just finished listening to [Ways of Hearing](https://www.radiotopia.fm/showcase/ways-of-hearing/) from [Radiotopia's Showcase](https://www.radiotopia.fm/podcasts/showcase) on a bus ride.
