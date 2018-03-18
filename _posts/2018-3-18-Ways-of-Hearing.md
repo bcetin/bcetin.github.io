@@ -16,7 +16,7 @@ Things that you will find in the series include but not limited to:
 I particularly want to mention about the sound design in each episode. Of course the topic is sound, but emotions, technical concepts about audio and songs from different eras of music history are reflected very well in the audio itself.
 I seriously mean this one, this is not a typical podcast where someone simply talks about something. It has seriously crafted audio content with wonderful transitions. I wish I could give some examples but that would run the risk of spoiling them for a potential listener.
 
-One last thing I want to mention is the theme song Trickle Down. [https://www.youtube.com/watch?v=IS0pClF-ydA](I found it on youtube.) Give it a listen. I don't know if I would fall in love with the song if I heard it standalone, but now I am really into it after hearing it in each episode.
+One last thing I want to mention is the theme song Trickle Down. [I found it on youtube.](https://www.youtube.com/watch?v=IS0pClF-ydA) Give it a listen. I don't know if I would fall in love with the song if I heard it standalone, but now I am really into it after hearing it in each episode.
 
 That's all. Hopefully I will use this blog more often and finish up with rest of the site in a very short time. Thanks for reading. **Now go and listen to [Ways of Hearing](https://www.radiotopia.fm/showcase/ways-of-hearing/)**. 
 
