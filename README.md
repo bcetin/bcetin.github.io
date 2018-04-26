@@ -1,1 +1,1 @@
-﻿WIP Personal Site
+﻿Personal blog/porfolio of Burak Çetin.
