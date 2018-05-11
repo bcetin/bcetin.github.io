@@ -2,13 +2,13 @@
 layout: post
 title: Carian Trail (Day 2)
 ---
-[Previous](/Carian-Trail-(Day-1)/) &#124; [Next](Carian-Trail-(Day-3)/)
+[Previous](/Carian-Trail-(Day-1)/) <!--- &#124; [Next](Carian-Trail-(Day-3)/) -->
 
 I woke up around 9AM and ate some of the snacks I brought with me from Istanbul. Packing up the tent took some time since I was tired from the last day. And a minute after I started walking I ended up in a place where I could see 5 different walkable trails and no waymarks.
 Even with the help of GPS it took some time for me to find the correct path. This part of the trail had really great views all over. I took a few pictures.
 <!--break-->
-![forest selfie](images/cariantrail/forestselfie.jpeg "Forest Selfie")
 ![forest view](/images/cariantrail/forestview.jpeg "Forest View")
+![forest selfie](/images/cariantrail/forest.jpeg "Forest Selfie")
 A fun moment was the part where I had to literally crawl. Branches of the plants were low and very thick so that was the only option. Not after very long the forest part ended and an open field welcomed me.
 ![open1](/images/cariantrail/open1.jpeg "Open Field")
 ![open2](/images/cariantrail/open2.jpeg "Open Field")
@@ -22,10 +22,10 @@ This part of the trail is walking under the sun for an hour which was really tir
 ![ruins](/images/cariantrail/ruins.jpeg "ruins")
 Also let me talk about the problems I had with clothing. I did not expect the weather to be this hot and did not bring any short sleeved tees. Same goes for the pants too. This fact really amplified the tiredness. So I was really happy when I reached to a fountain where I can wash my face and cool down in general.
 ![fountain](/images/cariantrail/fountain.jpeg "Fountain")
-The fountain is a part of a ruins which includes a lot of separate buildings including the Beçin Castle. Here are some pictures I took while seeing around.
+The fountain is a part of a ruins which includes a lot of separate buildings including the [Beçin Castle](https://en.wikipedia.org/wiki/Be%C3%A7in).
+![castle](/images/cariantrail/castle.jpeg "castle")
 ![milasbahcesign](/images/cariantrail/milasbahcesign.jpeg "milasbahcesign")
-
-Though excavation is still in development, the site is worth seeing for the view from the castle. From there the trail is kind of interrupted with the city. Milas is a fairly developed town and you have to pass through it as a part of the trail. I just hitchhiked to a mall where I can buy a t-shirt and a hat. I also charged my phone and ate at a Burger King. I agree that this stop makes the journey a non-trail thing since a mall is civilization at its peak compared to camping. But I had to solve the clothing problem.
+Though excavation is still in development, the site is worth seeing for the view from the castle. From there the trail is kind of interrupted with the city. [Milas](https://en.wikipedia.org/wiki/Milas) is a fairly developed town and you have to pass through it as a part of the trail. I just hitchhiked to a mall where I can buy a t-shirt and a hat. I also charged my phone and ate at a Burger King. I agree that this stop makes the journey a non-trail thing since a mall is civilization at its peak compared to camping. But I had to solve the clothing problem.
 After that I walked to the road of the next village. But before that I bought some extra snacks and a meal from BIM, which is a really cheap market chain in Turkey and I highly recommend it if you want to stay in a budget. Next village is Kırcağız and the road to there is just concrete. I recommend you to skip this part if you can. I just hitchhiked again.
 The village itself can be worth walking since there are ruins of old buildings etc.
 ![kircagiz](/images/cariantrail/kircagiz.jpeg "kircagiz")
