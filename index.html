@@ -4,6 +4,7 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
+  {% comment %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -14,5 +15,21 @@ layout: default
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+  {% endcomment %}
+	 <!-- using the split filter -->
+	   <div class="post-preview">
+	   <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+	   <span class="post-date"><i>{{ post.date | date: "%B %d, %Y" }}</i></span>
+	   {% if post.content contains '<!--break-->' %}
+			{{ post.content | split:'<!--break-->' | first }}
+	   {% else %}
+			{{ post.excerpt }}
+	   {% endif %}
+	   <div><b><a href="{{ post.url }}">READ MORE</a></b></div>
+	   </div>
+	   <hr>
+		
   {% endfor %}
 </div>
+
+
