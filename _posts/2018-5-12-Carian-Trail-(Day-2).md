@@ -2,7 +2,7 @@
 layout: post
 title: Carian Trail (Day 2)
 ---
-[Previous](/Carian-Trail-(Day-1)/) <!--- &#124; [Next](Carian-Trail-(Day-3)/) -->
+[Previous](/Carian-Trail-(Day-1)/) &#124; [Next](/Carian-Trail-(Day-3)/)
 
 I woke up around 9AM and ate some of the snacks I brought with me from Istanbul. Packing up the tent took some time since I was tired from the last day. And a minute after I started walking I ended up in a place where I could see 5 different walkable trails and no waymarks.
 Even with the help of GPS it took some time for me to find the correct path. This part of the trail had really great views all over. I took a few pictures.
