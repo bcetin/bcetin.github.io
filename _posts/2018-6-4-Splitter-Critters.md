@@ -27,3 +27,5 @@ Give it a try! [Here is the steam store page.](https://store.steampowered.com/ap
 
 ![bye](\images\blog\splittercritters\bye.jpg "Bye!")
 **They are waiting for you!**
+
+*BONUS: This game was originally a Ludum Dare game it turns out. Which is something cool that connects me more to this game. [Here is a gameplay video of the Jam version I just found.](https://www.youtube.com/watch?v=8Cz-LscS0PM)*
