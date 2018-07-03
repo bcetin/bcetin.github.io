@@ -53,7 +53,7 @@ This one is really complicated and hard compared to most of modded modules out t
 
 ### Poetry
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/942809531470464061/47AFC615DCA408DF879B05AD7E69B51E4C75C0B7/" alt="CCSS" style="height: 20em; "/>
+<img src="https://steamuserimages-a.akamaihd.net/ugc/942809531470464061/47AFC615DCA408DF879B05AD7E69B51E4C75C0B7/" alt="PoetrySS" style="height: 20em; "/>
 *Release: 14 Jan, 2018*
 
 Poetry Module is a module based on the poem minigame of [Doki Doki Literature Club](ddlc.moe). If you haven't played the game just go and do it. **Seriously.** I was so hooked I made a mod based on that idea.
