@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Chord Runner
+title: Chord Runner Project Blog
 ---
 
 I made a simple project about music and hand movements. Project report, source code and execution details are in [the project repository](https://github.com/bcetin/chord-runner).
