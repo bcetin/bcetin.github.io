@@ -1,12 +1,12 @@
 ---
 layout: post
-title: ChordRunner: A Leap Motion Real-Time Loop Generator
+title: Chord Runner
 ---
 
 I made a simple project about music and hand movements. Project report, source code and execution details are in [the project repository](https://github.com/bcetin/chord-runner).
 As a result I will just talk a little bit about my personal experience with the project in this short post. But first here is the demo video of it:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6OPpMwqAPyk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
+<!--break-->
 I had the chance to play with a [Reactable](https://en.wikipedia.org/wiki/Reactable) at [Copernicus Science Center](https://en.wikipedia.org/wiki/Copernicus_Science_Centre) while visiting Warsaw.
 Great place by the way. If you have any interest in popular science and end up in Warsaw it is worth visiting.
 
